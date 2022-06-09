@@ -110,16 +110,9 @@ https://edge-vod02-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 #EXTINF:-1 , amc
 https://edge5-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 
-#EXTINF:-1 ,
-
-
-#EXTINF:-1 ,
-
-
-#EXTINF:-1 ,
-
-
-#EXTINF:-1 ,
-
-
-#EXTINF:-1 ,
+#EXTINF:-1,Defensores de la tierra S01 E18
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/40607.mp4
+#EXTINF:-1,Defensores de la tierra S01 E19
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/40606.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/jesus-491775237-large.jpg" group-title="SERIE",JESUS 1
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=ebbc47253275467d4104446444692070bc3fe05c&st.mq=2&st.mvid=1710648527546&st.ip=186.128.110.197&st.dla=on&st.exp=1654913095046&st.hls=on&_prevCmd=movieLayer&
